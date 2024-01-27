@@ -28,4 +28,3 @@ python open-screenshot-close.py
 ```
 
 This script simplifies the process of opening, capturing, and closing an Excel file, streamlining your workflow for taking screenshots of specific Excel sections.
-"# open-screenshot-close-result" 
